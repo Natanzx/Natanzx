@@ -1,14 +1,14 @@
 # Natanael Dias da Silva
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Natanzx)](https://github.com/Natanzx)
+<!--[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Natanzx)](https://github.com/Natanzx)-->
 <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-dias-9b7b71b5/)](https://www.linkedin.com/in/natanael-dias-9b7b71b5/)-->
 
 <p>
-  <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=red&color=05122A" />
-  <img src="https://img.shields.io/badge/Backend-Kotlin-informational?style=flat&logo=kotlin&color=05122A" />
-  <img src="https://img.shields.io/badge/Cloud&nbsp;Public-Amazon&nbsp;AWS-informational?style=flat&logo=Amazon&color=05122A" />
-  <img src="https://img.shields.io/badge/Cloud&nbsp;Private-Kubernetes-informational?style=flat&logo=kubernetes&color=05122A" />
-  <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=05122A" />
+  <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk&logoColor=red&color=05122A" />
+  <img src="https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&color=05122A" />
+  <img src="https://img.shields.io/badge/Amazon&nbsp;AWS-informational?style=flat&logo=Amazon&color=05122A" />
+  <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&color=05122A" />
+  <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=05122A" />
 </p>
 
 ## Olá 👋
