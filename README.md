@@ -18,22 +18,23 @@ Meu hobby é assistir filmes e jogar video games.
 
 ### Formações
 - 🎓 Graduado em Sistemas de Informação na UPIS (União pioneira da integração social) - 2º/2016
-- 🎓 Pós graduado em Desenvolvimento De Aplicações .NET - 2º/2018
+- 🎓 Pós graduado em Desenvolvimento De Aplicações - 2º/2018
 
 ## Principais Habilidades
 
 ### Backend
-- [x] Java 11 | Spring | Kotlin | Java EE | Python | Node
-- [x] Junit | Mockito | PowerMock | RestAssured
-- [x] Swagger | OpenApi
+- [x] Java 11, 14, 22 | Kotlin | Java EE | Python | Node
+- [x] Ecosistema Spring | Web | Data | Cloud | Openfeign | Hystrix | Cache | Retry
+- [x] Apache Kafka | Apache ActiveMQ | Rabbit | Redis Cache
+- [x] Junit | Mockito | PowerMock | RestAssured | Wiremock
 - [x] Restful | SOAP | gRPC
-- [x] Apache Kafka | Apache ActiveMQ | Rabbit
+- [x] Swagger | OpenApi
 ### Frontend
 - [x] Angular 14 | React | RxJs | TypeScript | Angular JS | Javascript
-- [x] Cypress | Jest | Express | Selenium | NodeJs
+- [x] Cypress | Jest | Express | Selenium
 - [x] Micro Frontends | Module Federation | Web Components | Webpack
 ### Cloud
-- [x] AWS ApiGateway, Lambda, ECS, Bucket, IAM, Dynamo, SQS, SNS, CloudFormation, CloudWatch, CodePipeline
+- [x] AWS ApiGateway, Lambda, ECS, Bucket, IAM, Dynamo DB, SQS, SNS, CloudFormation, CloudWatch, CodePipeline
 - [x] Azure
 ### Applicação
 - [x] Tomcat | Jboss EAP | Jboss AS
@@ -45,7 +46,6 @@ Meu hobby é assistir filmes e jogar video games.
 ### Outros
 - [x] Jira | Redmine | Jazz | Kanbanize | Scrum
 - [x] Inglês intermediario
-- [x] Ecossistema PIX
 
 ---
 
